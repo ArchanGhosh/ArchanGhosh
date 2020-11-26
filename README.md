@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Machine Intelligence and CV
 - 👯 I’m looking to collaborate on ML/AI/DL
 - 💬 Ask me about Hobbies, food, and games
-- 😄 Pronouns:He/Him 
+- 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Gamer, Part-Time Caster and Esports Enthusiasts
 
 <p align="left">
@@ -24,7 +24,7 @@
 </a>
 </p>
 <p align="left">
-  <h2 align="left">Games That Play</h2>
+  <h2 align="left">Games That I Play</h2>
   <a href="">
   <img align="center" height=50 width=50 src="https://logodownload.org/wp-content/uploads/2014/09/lol-league-of-Legends-logo-3.png" alt="League"/>
 </a>
