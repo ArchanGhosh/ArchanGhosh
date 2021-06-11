@@ -28,12 +28,6 @@
   <a href="">
   <img align="center" height=50 width=50 src="https://logodownload.org/wp-content/uploads/2014/09/lol-league-of-Legends-logo-3.png" alt="League"/>
 </a>
-<a href="">
-  <img align="center" height=50 width=50 src="https://w7.pngwing.com/pngs/361/42/png-transparent-dota-2-dota-2-league-of-legends-the-international-video-game-axe-logo-game-logo-international.png" alt="League"/>
-</a>
-<a href="">
-  <img align="center" height=50 width=150 src="https://www.pngkit.com/png/full/308-3083447_logo-kaeo-r6-pro-league-logo.png" color="black" alt="League"/>
-</a>
 </p>
 
 
