@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ML/AI/DL
 - 💬 Ask me about Hobbies, food, and games
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Gamer, Part-Time Caster and Esports Enthusiasts
+- ⚡ Fun fact: Gamer, Sim-Racer, and Esports Enthusiasts
 
 <p align="left">
 <h2 align="left">Find Me here</h2>
@@ -14,7 +14,7 @@
   <img align="center" height=50 width=50 src="https://img.icons8.com/ios/452/linkedin.png" alt="Archan Linkedin"/>
 </a>
 <a href="https://gharchan@gmail.com">
-  <img align="center" height=50 width=50 src="https://image.flaticon.com/icons/png/512/60/60543.png" alt="Archan Gmail"/>
+  <img align="center" height=50 width=50 src="https://i.ibb.co/55PxJ9W/gmail2.jpg" alt="Archan Gmail"/>
 </a>
 <a href="https://www.kaggle.com/archanghosh">
   <img align="center" height=46 width=52 src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/189_Kaggle_logo_logos-512.png" alt="Archan Kaggle"/>
