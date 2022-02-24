@@ -14,7 +14,7 @@
   <img align="center" height=50 width=50 src="https://img.icons8.com/ios/452/linkedin.png" alt="Archan Linkedin"/>
 </a>
 <a href="https://gharchan@gmail.com">
-  <img align="center" height=50 width=50 src="https://i.ibb.co/55PxJ9W/gmail2.jpg" alt="Archan Gmail"/>
+  <img align="center" height=50 width=50 src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png%22/%3E" alt="Archan Gmail"/>
 </a>
 <a href="https://www.kaggle.com/archanghosh">
   <img align="center" height=46 width=52 src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/189_Kaggle_logo_logos-512.png" alt="Archan Kaggle"/>
@@ -33,7 +33,7 @@
 
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArchanGhosh&show_icons=true&theme=synthwave" alt="Archan Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArchanGhosh" alt="Archan Stats"/>
 </a>
 
 <a href="">
