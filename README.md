@@ -1,8 +1,8 @@
 ### Sup :metal:
 
 
-- 🔭 I’m currently working on GANS 
-- 🌱 I’m currently learning Machine Intelligence and CV
+- 🔭 I’m currently working on Applied Deep Learning
+- 🌱 I’m currently learning Extended application of transfer learning
 - 👯 I’m looking to collaborate on ML/AI/DL
 - 💬 Ask me about Hobbies, food, and games
 - 😄 Pronouns: He/Him 
