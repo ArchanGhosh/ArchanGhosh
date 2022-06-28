@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Applied Deep Learning
-- 🌱 I’m currently learning Extended application of transfer learning
+- 🌱 I’m trying to diffuse knowledge on CV
 - 👯 I’m looking to collaborate on ML/AI/DL
 - 💬 Ask me about Hobbies, food, and games
 - 😄 Pronouns: He/Him 
