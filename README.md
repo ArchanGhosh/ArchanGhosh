@@ -1,44 +1,26 @@
-### Sup :metal:
+<h1 align="center">Hey There, I am Archan Ghosh</h1>
+<h3 align="center">A Machine Learning Developer From India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=archanghosh&label=Profile%20views&color=0e75b6&style=flat" alt="archanghosh" /> </p>
 
-- 🔭 I’m currently working on Applied Deep Learning
-- 🌱 I’m trying to diffuse knowledge on CV
-- 👯 I’m looking to collaborate on ML/AI/DL
-- 💬 Ask me about Hobbies, food, and games
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Gamer, Sim-Racer, and Esports Enthusiasts
+- 🔭 I’m currently working on **Computer Vision**
 
+- 🌱 I’m currently learning **Reinforcement Learning**
+
+- 👯 I’m looking to collaborate on **Generative AI**
+
+- 🤝 I’m looking for help with **Generative AI**
+
+- ⚡ Fun fact **Culer for Life**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<h2 align="left">Find Me here</h2>
-<a href="https://www.linkedin.com/in/archanghosh/">
-  <img align="center" height=50 width=50 src="https://github.com/ArchanGhosh/ArchanGhosh/blob/main/icons/linkedin-logo.png" alt="Archan Linkedin"/>
-</a>
-<a href="https://gharchan@gmail.com">
-  <img align="center" height=50 width=50 src="https://github.com/ArchanGhosh/ArchanGhosh/blob/main/icons/gmail.png" alt="Archan Gmail"/>
-</a>
-<a href="https://www.kaggle.com/archanghosh">
-  <img align="center" height=46 width=52 src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/189_Kaggle_logo_logos-512.png" alt="Archan Kaggle"/>
-</a>
-<a href="https://steamcommunity.com/id/quantamphysx">
-  <img align="center" height=50 width=50 src="https://github.com/ArchanGhosh/ArchanGhosh/blob/main/icons/steam.png" alt="Archan Steam"/>
-</a>
-</p>
-<p align="left">
-  <h2 align="left">Games That I Play</h2>
-  <a href="">
-  <img align="center" height=50 width=50 src="https://logodownload.org/wp-content/uploads/2014/09/lol-league-of-Legends-logo-3.png" alt="League"/>
-</a>
-<a href="">
-  <img align="center" height=50 width=50 src="https://github.com/ArchanGhosh/ArchanGhosh/blob/main/icons/racing.png" alt="League"/>
-</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/archanghosh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/archanghosh/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archanghosh&show_icons=true&locale=en&layout=compact" alt="archanghosh" /></p>
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArchanGhosh&show_icons=true&theme=synthwave" alt="Archan Stats"/>
-</a>
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchanGhosh&layout=compact&theme=synthwave" alt="Archan Languages"/>
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archanghosh&show_icons=true&locale=en" alt="archanghosh" /></p>
