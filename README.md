@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Computer Vision**
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **How to keep at pace with so much innovation**
 
 - 👯 I’m looking to collaborate on **Generative AI**
 
